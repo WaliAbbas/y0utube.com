@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.child_1 {
+    display: flex;
+    justify-content: space-between;
+}
+.head {
+    margin: 7px 20px 0 20px;
+    display: inline-block;
+}
+.Search img {
+height: 30px;
+}
+.Search {
+    display: flex;
+    align-items: center;
+}
+.more {
+    margin: 7px 0 0 0;
+    margin-left: 20px;
+}
+.create {
+    margin: 7px 5px 0 0;
+}
+.user {
+    margin-right: 20px;
+    
+    
+}
+.boxsrc {
+    width: 30vw;
+    height: 5vh;
+    outline: 1px solid rgb(212, 212, 212);
+}
+.icon.src {
+    height: 4vh;
+    overflow: hidden;
+}
